@@ -19,3 +19,5 @@ the paper (where the last 1000 ms are shown).
 Note: pj.mod updated to be valid for 9.0 and legacy NEURON versions.
 
 Questions on the code should be addressed to 
+Alessandro Limongiello: ax.magnum@gmail.com
+
