@@ -1,6 +1,6 @@
 NEURON files from the paper:
 
-Using Strahler’s analysis to reduce up to 200-fold the run time 
+Using Strahlerâ€™s analysis to reduce up to 200-fold the run time 
 of realistic neuron models, by A. Marasco, A.Limongiello, and M.Migliore
 (2013) Sci. Rep. 3, 2934; DOI:10.1038/srep02934 (in press).
 
@@ -16,6 +16,6 @@ Reduced Models" button, then select e4cb3a1.hoc in the morphologies
 folder. The simulation will reproduce the traces in Fig.2D (left) of
 the paper (where the last 1000 ms are shown). 
 
-Note: pj.mod updated to be valid for 9.0 nad legacy NEURON versions.
+Note: pj.mod updated to be valid for 9.0 and legacy NEURON versions.
 
 Questions on the code should be addressed to 
