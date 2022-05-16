@@ -16,5 +16,6 @@ Reduced Models" button, then select e4cb3a1.hoc in the morphologies
 folder. The simulation will reproduce the traces in Fig.2D (left) of
 the paper (where the last 1000 ms are shown). 
 
+Note: pj.mod updated to be valid for 9.0 nad legacy NEURON versions.
+
 Questions on the code should be addressed to 
-Alessandro Limongiello: ax.magnum@gmail.com
