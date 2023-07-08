@@ -844,8 +844,8 @@ proc createPurkEqCell(){local nCluster,appLun,sec,col,i,j,jj,secApp
         }
         
         
-        if(optPrint) print "orMinpathri di ",i,"è: ", orMinpathri.x(i)
-        if(optPrint) print "orMaxpathri di ",i,"è: ", orMaxpathri.x(i)
+        if(optPrint) print "orMinpathri di ",i,"Ã¨: ", orMinpathri.x(i)
+        if(optPrint) print "orMaxpathri di ",i,"Ã¨: ", orMaxpathri.x(i)
         
         
         eqRa.set(i,eqRa.x(i)/clusterListApp.o(i).size())
