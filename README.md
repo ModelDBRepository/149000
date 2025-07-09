@@ -1,8 +1,7 @@
 # NEURON files from the paper:
 
 **Using Strahler’s analysis to reduce up to 200-fold the run time of realistic neuron models**,  
-by A. Marasco, A. Limongiello, and M. Migliore  
-(2013) *Sci. Rep.* 3, 2934; DOI: 10.1038/srep02934 (in press).
+by A. Marasco, A. Limongiello, and M. Migliore (2013) *Sci. Rep.* 3, 2934; DOI: 10.1038/srep02934 (in press).
 
 ## Usage:
 
